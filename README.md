@@ -1,1 +1,1 @@
-# Restful-Booker-API
+# Тестовое задание по Restful-Booker-API
